@@ -24,5 +24,6 @@ Follow instructions on program
 
 Version Info:
 Version 1.1.2
-Python 3.7-3.8 compatable [x]
-Optimised [x]
+Python 3.7-3.8 compatable
+Optimised 
+-------------------
